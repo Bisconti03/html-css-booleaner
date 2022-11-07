@@ -1,0 +1,47 @@
+body {
+    margin: 0%;
+}
+
+.background-header {
+    background-image: url(../img/pattern.png);
+    height: 175px;
+    background-color: #4da1ff;
+    margin: 0%;
+    
+}
+ 
+.blocco-1 {
+    padding: 5px;
+}
+
+
+
+.logo {
+    height: 70px;
+    margin-top: 85px;
+}
+
+h1{
+    
+    font-size: 80px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.grey-text {
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 0%;
+}
+
+.blue-text {
+    color: #4da1ff;
+    margin-top: 15px;
+    margin-bottom: 0%;
+}
+.date {
+    font-size: 14px;
+    color: grey;
+    margin-top: 0;
+}
