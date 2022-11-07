@@ -77,3 +77,55 @@ h1{
     font-size: 23px;
 }
 
+
+.first-orizontal {
+    background-color: #4da1ff;
+
+}
+
+table { 
+    width: 100%;
+    font-size: 23px;
+    
+
+}
+
+th {
+    text-align: left;
+    background-color: #007FFF;
+    
+}
+
+.tr1 {
+    background-color: 	#89CFF0;
+}
+
+.tr3 {
+    background-color: #89CFF0;
+}
+
+.grey {
+    color: grey;
+    font-size: 23px;
+}
+
+
+.text-over-image{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+       
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 30px;
+    font-weight: bolder;
+}
