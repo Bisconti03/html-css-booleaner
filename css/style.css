@@ -45,3 +45,37 @@ h1{
     color: grey;
     margin-top: 0;
 }
+
+
+
+.tim-1 {
+    width: 900px;
+    height: 600px;
+    padding-left: 5px;
+}
+
+.tim-2 {
+    width: 850px;
+    height: 600px;
+}
+
+#first-photo {
+    margin-bottom: 0%;
+    padding-left:
+}
+
+#second-photo {
+    margin-top: 5px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.Lorem {
+    font-size: 23px;
+}
+
+.padding {
+    padding-left: 5px;
+}
